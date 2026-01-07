@@ -23,7 +23,7 @@ ChartJS.register(
   Title
 );
 
-const API = "https://Al-hafiid.somsoftsystems.com/api";
+const API = "http://Al-hafiid.somsoftsystems.com/api";
 
 const TeacherDashboardd = () => {
   const token = getAuth();

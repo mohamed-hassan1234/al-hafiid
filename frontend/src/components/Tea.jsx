@@ -13,7 +13,7 @@ import {
   FiSearch
 } from "react-icons/fi";
 
-const API_BASE = "https://Al-hafiid.somsoftsystems.com/api/teacheers";
+const API_BASE = "http://Al-hafiid.somsoftsystems.com/api/teacheers";
 
 const Tea = () => {
   const [teachers, setTeachers] = useState([]);
